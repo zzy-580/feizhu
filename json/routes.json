@@ -1,0 +1,7 @@
+{
+    "/xiangtong\\?id=:id":"/xiangtong/:id",
+    "/quanbu\\?id=:id":"/quanbu/:id",
+    "/gentuan\\?id=:id":"/gentuan/:id",
+    "/xiyouxin\\?id=:id":"/xiyouxin/:id",
+    "/products\\?kws=:kws":"/products?title_like=:kws"
+}
